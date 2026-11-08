@@ -164,7 +164,7 @@ Si editás los HTML a mano, no vuelvas a correr el script: te pisa los cambios.
       el domicilio y quién figura como representante. Es un dato legalmente relevante.
 - [ ] ¿Querés que figure Holunderweg 6 como dirección pública? Si el club consigue otra
       dirección, cambiala en `impressum.html`, `kontakt.html` y en el pie de página de todas las páginas.
-- [ ] **Correo**: ahora aparece `santicerri@gmail.com`. Si en algún momento hay un correo del club
+- [ ] **Correo**: ahora aparece `tejoclub.dossenheim@gmail.com`. Si en algún momento hay un correo del club
       (por ejemplo `info@tejoclub.eu`), buscá y reemplazá en todos los archivos.
 - [ ] **Fotos**: confirmá que tenés permiso para publicar las fotos de juego y las de las personas
       (en Alemania rige el derecho a la propia imagen).
