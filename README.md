@@ -108,7 +108,7 @@ francisco-cortez.jpg
 sisay-alemu.jpg
 irene-lois-bermejo.jpg
 enrico-frigoli.jpg
-axel-carboni.jpg
+axel-carbone.jpg
 ```
 
 3. En GitHub: entrá a la carpeta `assets/img/founders`, **Add file → Upload files**,
